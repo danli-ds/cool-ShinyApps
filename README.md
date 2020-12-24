@@ -57,74 +57,32 @@ The majority of ShinyApps listed below are collected from [Michael W. Kearney](h
   - ~~[**adaptR** by *cjbattey*](https://cjbattey.shinyapps.io/adaptR): adaptR:~~
   - [**adavis** by *gokhan*](https://gokhan.shinyapps.io/adavis): adavis [repo](https://github.com/ciflikli/adavis)
   - [**adjacency\_plot** by *mdlincoln*](https://mdlincoln.shinyapps.io/adjacency_plot): Adjacency matrices [repo](https://github.com/mdlincoln/adjacency_plot)
-  - [**admin** by *www*](https://www.shinyapps.io/admin): shinyapps.io
-  - [**Administration\_Departures** by
-    *matthewmorriss*](https://matthewmorriss.shinyapps.io/Administration_Departures):
-    Cabinent Agency Evolution
-  - [**advancedr\_jbook** by
-    *teramonagi*](https://teramonagi.shinyapps.io/advancedr_jbook):
-    Amazon Rank
-  - [**advrquiz** by *hoxom*](https://hoxom.shinyapps.io/advrquiz):
-    R言語徹底解説クイズ
-  - [**AEMRExplorerShinyApp** by
-    *johnyagecic*](https://johnyagecic.shinyapps.io/AEMRExplorerShinyApp):
-    Wastewater Treatment Effluent Nutrient Explorer
-  - [**afazali5** by *afazali*](https://afazali.shinyapps.io/afazali5):
-    DIDAT
-  - [**afheritability** by
-    *afheritability*](https://afheritability.shinyapps.io/afheritability):
-    The attributable fraction and the heritability
-  - [**AFLW** by *petehaitch*](https://petehaitch.shinyapps.io/AFLW):
-    AFLW Explorer
-  - [**Afraus\_app** by
-    *afraus*](https://afraus.shinyapps.io/Afraus_app): Afraus
-  - [**AgeGuesser** by
-    *wangfan8*](https://wangfan8.shinyapps.io/AgeGuesser): Age\_Guesser
-  - [**AgeStructureShiny** by
-    *johnyagecic*](https://johnyagecic.shinyapps.io/AgeStructureShiny):
-    Input Variables
-  - [**Ahput4** by *wyquek71*](https://wyquek71.shinyapps.io/Ahput4):
-    Ahput 2.0
-  - [**ai-banker** by
-    *samitheberber*](https://samitheberber.shinyapps.io/ai-banker):
-    AI-Banker
-  - [**aircrash\_** by
-    *tianyigu*](https://tianyigu.shinyapps.io/aircrash_): Aircrash
-    Insight
-  - [**aircrashes** by
-    *arthur*](https://arthur.shinyapps.io/aircrashes): Aviation data
-  - [**AirportSecurity** by
-    *davidruvolo*](https://davidruvolo.shinyapps.io/AirportSecurity):
-    TSA Air Marshal Data
-  - [**AirQuality-Data-Analysis-App-v11** by
-    *manuelblancovalentin*](https://manuelblancovalentin.shinyapps.io/AirQuality-Data-Analysis-App-v11):
-    AirQuality Data Analysis App v11.0
-  - [**Alcohol\_admissions** by
-    *stevenlsenior*](https://stevenlsenior.shinyapps.io/Alcohol_admissions):
-    Alcohol-Related Hospital Admissions
-  - [**ALCS\_Dashboard** by
-    *cso-of-afghanistan*](https://cso-of-afghanistan.shinyapps.io/ALCS_Dashboard):
-    The Afghanistan Living Conditions Survey
-  - [**alex-course-project** by
-    *alevashov*](https://alevashov.shinyapps.io/alex-course-project):
-    Comparing Big 4 Australian banks tweets
-  - [**algo\_diversification** by
-    *robotwealth*](https://robotwealth.shinyapps.io/algo_diversification):
-    Algo Diversification
-  - [**all-complications-should-count** by
-    *grattan*](https://grattan.shinyapps.io/all-complications-should-count):
-    Hospital complications calculator
-  - [**AlleghenyCrashes** by
-    *laurenrenaud*](https://laurenrenaud.shinyapps.io/AlleghenyCrashes):
-    Allegheny County Crashes
-  - [**alleleFrequencyApp** by
-    *jamesware*](https://jamesware.shinyapps.io/alleleFrequencyApp):
-    Frequency Filter
-  - [**allsvenskan** by
-    *erik-andreasson*](https://erik-andreasson.shinyapps.io/allsvenskan):
-    Allsvenskan
-  - [**alpha\_variance** by
-    *kk-gds*](https://kk-gds.shinyapps.io/alpha_variance): 降水量の一般化分散
+  - ~~[**admin** by *www*](https://www.shinyapps.io/admin): shinyapps.io~~
+  - ~~[**Administration\_Departures** by *matthewmorriss*](https://matthewmorriss.shinyapps.io/Administration_Departures): Cabinent Agency Evolution~~
+  - ~~[**advancedr\_jbook** by *teramonagi*](https://teramonagi.shinyapps.io/advancedr_jbook): Amazon Rank~~
+  - ~~[**advrquiz** by *hoxom*](https://hoxom.shinyapps.io/advrquiz): R言語徹底解説クイズ~~
+  - ~~[**AEMRExplorerShinyApp** by *johnyagecic*](https://johnyagecic.shinyapps.io/AEMRExplorerShinyApp): Wastewater Treatment Effluent Nutrient Explorer~~
+  - ~~[**afazali5** by *afazali*](https://afazali.shinyapps.io/afazali5): DIDAT~~
+  - [**afheritability** by *afheritability*](https://afheritability.shinyapps.io/afheritability): The attributable fraction and the heritability [repo](https://github.com/ElisabethDahlqwist/AFheritability)
+  - ~~[**AFLW** by *petehaitch*](https://petehaitch.shinyapps.io/AFLW): AFLW Explorer~~
+  - [**Afraus\_app** by *afraus*](https://afraus.shinyapps.io/Afraus_app): Afraus [repo](https://github.com/AndreaCirilloAC/Afraus)
+  - ~~[**AgeGuesser** by *wangfan8*](https://wangfan8.shinyapps.io/AgeGuesser): Age\_Guesser~~
+  - ~~[**AgeStructureShiny** by *johnyagecic*](https://johnyagecic.shinyapps.io/AgeStructureShiny): Input Variables~~
+  - ~~[**Ahput4** by *wyquek71*](https://wyquek71.shinyapps.io/Ahput4): Ahput 2.0~~
+  - ~~[**ai-banker** by *samitheberber*](https://samitheberber.shinyapps.io/ai-banker): AI-Banker~~
+  - ~~[**aircrash\_** by *tianyigu*](https://tianyigu.shinyapps.io/aircrash_): Aircrash Insight~~
+  - ~~[**aircrashes** by *arthur*](https://arthur.shinyapps.io/aircrashes): Aviation data~~
+  - ~~[**AirportSecurity** by *davidruvolo*](https://davidruvolo.shinyapps.io/AirportSecurity): TSA Air Marshal Data~~
+  - [**AirQuality-Data-Analysis-App-v11** by *manuelblancovalentin*](https://manuelblancovalentin.shinyapps.io/AirQuality-Data-Analysis-App-v11): AirQuality Data Analysis App v11.0
+  - ~~[**Alcohol\_admissions** by *stevenlsenior*](https://stevenlsenior.shinyapps.io/Alcohol_admissions): Alcohol-Related Hospital Admissions~~
+  - ~~[**ALCS\_Dashboard** by *cso-of-afghanistan*](https://cso-of-afghanistan.shinyapps.io/ALCS_Dashboard): The Afghanistan Living Conditions Survey~~
+  - ~~[**alex-course-project** by *alevashov*](https://alevashov.shinyapps.io/alex-course-project): Comparing Big 4 Australian banks tweets~~
+  - ~~[**algo\_diversification** by *robotwealth*](https://robotwealth.shinyapps.io/algo_diversification): Algo Diversification~~
+  - ~~[**all-complications-should-count** by *grattan*](https://grattan.shinyapps.io/all-complications-should-count): Hospital complications calculator~~
+  - ~~[**AlleghenyCrashes** by *laurenrenaud*](https://laurenrenaud.shinyapps.io/AlleghenyCrashes): Allegheny County Crashes~~
+  - [**alleleFrequencyApp** by *jamesware*](https://jamesware.shinyapps.io/alleleFrequencyApp): Frequency Filter [repo](https://github.com/jamesware/alleleFrequencyApp)
+  - ~~[**allsvenskan** by *erik-andreasson*](https://erik-andreasson.shinyapps.io/allsvenskan): Allsvenskan~~
+  - ~~[**alpha\_variance** by *kk-gds*](https://kk-gds.shinyapps.io/alpha_variance): 降水量の一般化分散~~
   - [**alphasimrshiny** by
     *alphagenes*](https://alphagenes.shinyapps.io/alphasimrshiny):
     AlphaSimR
