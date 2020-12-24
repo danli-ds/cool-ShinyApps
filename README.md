@@ -48,28 +48,15 @@ The majority of ShinyApps listed below are collected from [Michael W. Kearney](h
   - ~~[**abs\_census2016\_incomes\_visualisation** by *virusme*](https://virusme.shinyapps.io/abs_census2016_incomes_visualisation): ABS Census 2016~~
   - ~~[**acciones** by *jesusyoel*](https://jesusyoel.shinyapps.io/acciones): MERCADO DE CAPITALES EN VENEZUELA~~
   - ~~[**acsCounty** by *jasonajones73*](https://jasonajones73.shinyapps.io/acsCounty): Mapping ACS Data~~
-  - [**ACSExplorer** by *brandonkopp*](https://brandonkopp.shinyapps.io/ACSExplorer): ACS Explorer
-  - [**actionbutton** by
-    *gallery*](https://gallery.shinyapps.io/actionbutton): actionButton
-    example
-  - [**activity-dashboard** by
-    *winston*](https://winston.shinyapps.io/activity-dashboard):
-    Activity tracker
-  - [**ACTRInterference** by
-    *engelmann*](https://engelmann.shinyapps.io/ACTRInterference):
-    Similarity-based interference in sentence comprehension
-  - [**acwc-2020-fantasy** by
-    *etychang*](https://etychang.shinyapps.io/acwc-2020-fantasy): AC
-    World Championship Fantasy Competition
-  - [**AD\_prediction** by
-    *kanli*](https://kanli.shinyapps.io/AD_prediction): Dynamic
-    Prediction of Future Health Outcomes and Risk of Alzheimer’s Disease
-  - [**adaptR** by *cjbattey*](https://cjbattey.shinyapps.io/adaptR):
-    adaptR:
-  - [**adavis** by *gokhan*](https://gokhan.shinyapps.io/adavis): adavis
-  - [**adjacency\_plot** by
-    *mdlincoln*](https://mdlincoln.shinyapps.io/adjacency_plot):
-    Adjacency matrices
+  - [**ACSExplorer** by *brandonkopp*](https://brandonkopp.shinyapps.io/ACSExplorer): ACS Explorer [repo not found]
+  - ~~[**actionbutton** by *gallery*](https://gallery.shinyapps.io/actionbutton): actionButton example~~
+  - ~~[**activity-dashboard** by *winston*](https://winston.shinyapps.io/activity-dashboard): Activity tracker~~
+  - ~~[**ACTRInterference** by *engelmann*](https://engelmann.shinyapps.io/ACTRInterference): Similarity-based interference in sentence comprehension~~
+  - ~~[**acwc-2020-fantasy** by *etychang*](https://etychang.shinyapps.io/acwc-2020-fantasy): AC World Championship Fantasy Competition~~
+  - ~~[**AD\_prediction** by *kanli*](https://kanli.shinyapps.io/AD_prediction): Dynamic Prediction of Future Health Outcomes and Risk of Alzheimer’s Disease~~
+  - ~~[**adaptR** by *cjbattey*](https://cjbattey.shinyapps.io/adaptR): adaptR:~~
+  - [**adavis** by *gokhan*](https://gokhan.shinyapps.io/adavis): adavis [repo](https://github.com/ciflikli/adavis)
+  - [**adjacency\_plot** by *mdlincoln*](https://mdlincoln.shinyapps.io/adjacency_plot): Adjacency matrices [repo](https://github.com/mdlincoln/adjacency_plot)
   - [**admin** by *www*](https://www.shinyapps.io/admin): shinyapps.io
   - [**Administration\_Departures** by
     *matthewmorriss*](https://matthewmorriss.shinyapps.io/Administration_Departures):
@@ -1677,8 +1664,7 @@ The majority of ShinyApps listed below are collected from [Michael W. Kearney](h
     *gallery*](https://gallery.shinyapps.io/GDELTNetApp): Network
   - [**gem-scd** by *jepusto*](https://jepusto.shinyapps.io/gem-scd):
     Gradual Effects Model Calculator
-  - [**gender** by *gokhan*](https://gokhan.shinyapps.io/gender): LSE IR
-    Gender Project
+  - [**gender** by *gokhan*](https://gokhan.shinyapps.io/gender): LSE IR Gender Project [repo](https://github.com/ciflikli/gendeR)
   - [**GeneExpresso** by
     *griffith*](https://griffith.shinyapps.io/GeneExpresso): Gene
     Expresso.. quick view of the gene expression
@@ -1896,8 +1882,7 @@ The majority of ShinyApps listed below are collected from [Michael W. Kearney](h
     profile for 3yr outcome
   - [**Home** by *qmi-fcrr*](https://qmi-fcrr.shinyapps.io/Home): QMI
     Shiny Home
-  - [**homebrewR** by
-    *davesteps*](https://davesteps.shinyapps.io/homebrewR): HomebrewR
+  - [**homebrewR** by *davesteps*](https://davesteps.shinyapps.io/homebrewR): HomebrewR [repo](https://github.com/davesteps/homebrewR)
   - [**homicide\_app** by
     *rfnajera*](https://rfnajera.shinyapps.io/homicide_app): Baltimore
     Homicide Map
@@ -2265,6 +2250,7 @@ The majority of ShinyApps listed below are collected from [Michael W. Kearney](h
   - [**macbeth** by
     *gdlinguistics*](https://gdlinguistics.shinyapps.io/macbeth):
     Macbeth Network
+  - [**machLearn Shiny app**](https://davesteps.shinyapps.io/machLearn/) [repo](https://github.com/davesteps/machLearn)
   - [**macro\_visual** by
     *sautergroup*](https://sautergroup.shinyapps.io/macro_visual):
     fastcormics:monocyte-macrophage differentiation
