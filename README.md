@@ -2349,64 +2349,28 @@ The majority of ShinyApps listed below are collected from [Michael W. Kearney](h
 
 ## O
 
-  - [**oakbirdpop** by *aknw*](https://aknw.shinyapps.io/oakbirdpop):
-    Oak Bird Pop
-  - [**oba1** by
-    *biotransformers*](https://biotransformers.shinyapps.io/oba1): OBA
-  - [**obsbrain** by *conxz*](https://conxz.shinyapps.io/obsbrain):
-    obsBrain: Observatory of Brain
-  - [**ODdash\_v1** by *pdop*](https://pdop.shinyapps.io/ODdash_v1): The
-    California Opioid Surveillance Dashboard has moved\!
-  - [**ODSI\_continuousData** by
-    *minnier*](https://minnier.shinyapps.io/ODSI_continuousData):
-    Continuous Data
-  - [**OECD** by
-    *mytinyshinys*](https://mytinyshinys.shinyapps.io/OECD): OECD
-  - [**OH\_Medical\_Treat\_Toxin** by
-    *arka1985*](https://arka1985.shinyapps.io/OH_Medical_Treat_Toxin):
-    Medical Management Guidelines for Toxic Substances
-  - [**OLS-App** by
-    *econometricsbysimulation*](https://econometricsbysimulation.shinyapps.io/OLS-App):
-    Ordinary Least Squares
-  - [**olympics** by *cadolph*](https://cadolph.shinyapps.io/olympics):
-    Who’s Winning the Olympics?
-  - [**OnlineApp** by *flore*](https://flore.shinyapps.io/OnlineApp): A
-    vous de jouer \!
-  - [**open-science-networks** by
-    *subugoe*](https://subugoe.shinyapps.io/open-science-networks):
-    European Open Science Networks (Beta)
-  - [**openAnalysis** by
-    *hdoran*](https://hdoran.shinyapps.io/openAnalysis): Toolbar
-  - [**openfda-dashboard** by
-    *diabetescheck*](https://diabetescheck.shinyapps.io/openfda-dashboard):
-    FDA Adverse Event Dashboard
-  - [**opioid\_rx\_rate** by
-    *natea*](https://natea.shinyapps.io/opioid_rx_rate): Opioid
-    Prescribing Rate Visualizations
-  - [**OpioidActionPlan** by
-    *injuryfreenc*](https://injuryfreenc.shinyapps.io/OpioidActionPlan):
-    NC Opioid Dashboard
-  - [**optimal\_identification** by
-    *mmcbee*](https://mmcbee.shinyapps.io/optimal_identification):
-    Optimal Gifted Identification
-  - [**orcid** by *aushsi*](https://aushsi.shinyapps.io/orcid): Reducing
-    the administrative burden on researchers
-  - [**oreilly\_data\_science\_salary** by
-    *yasserglez*](https://yasserglez.shinyapps.io/oreilly_data_science_salary):
-    O’Reilly ‘2015 Data Science Salary Survey’ models
-  - [**osf\_shinyapp** by
-    *kissel*](https://kissel.shinyapps.io/osf_shinyapp): Population
-    supplemenation options for the Oregon spotted frog in British
-    Columbia
-  - [**Overall\_ecosystem\_stability\_demo** by
-    *frankpennekamp*](https://frankpennekamp.shinyapps.io/Overall_ecosystem_stability_demo):
-    Overall ecosystem stability
-  - [**Overplots** by
-    *johnyagecic*](https://johnyagecic.shinyapps.io/Overplots): Input
-    Variables
-  - [**OxRep\_maps\_mines** by
-    *livedataoxford*](https://livedataoxford.shinyapps.io/OxRep_maps_mines):
-    Oxford Roman Economy Project
+  - ~~[**oakbirdpop** by *aknw*](https://aknw.shinyapps.io/oakbirdpop): Oak Bird Pop~~
+  - ~~[**oba1** by *biotransformers*](https://biotransformers.shinyapps.io/oba1): OBA~~
+  - ~~[**obsbrain** by *conxz*](https://conxz.shinyapps.io/obsbrain): obsBrain: Observatory of Brain~~
+  - ~~[**ODdash\_v1** by *pdop*](https://pdop.shinyapps.io/ODdash_v1): The California Opioid Surveillance Dashboard has moved\!~~
+  - ~~[**ODSI\_continuousData** by *minnier*](https://minnier.shinyapps.io/ODSI_continuousData): Continuous Data~~
+  - ~~[**OECD** by *mytinyshinys*](https://mytinyshinys.shinyapps.io/OECD): OECD~~
+  - ~~[**OH\_Medical\_Treat\_Toxin** by *arka1985*](https://arka1985.shinyapps.io/OH_Medical_Treat_Toxin): Medical Management Guidelines for Toxic Substances~~
+  - ~~[**OLS-App** by *econometricsbysimulation*](https://econometricsbysimulation.shinyapps.io/OLS-App): Ordinary Least Squares~~
+  - [**olympics** by *cadolph*](https://cadolph.shinyapps.io/olympics): Who’s Winning the Olympics? [repo](http://faculty.washington.edu/cadolph/vis/olympics.zip)
+  - ~~[**OnlineApp** by *flore*](https://flore.shinyapps.io/OnlineApp): A vous de jouer \!~~
+  - [**open-science-networks** by *subugoe*](https://subugoe.shinyapps.io/open-science-networks): European Open Science Networks (Beta) [repo](https://github.com/subugoe/eu_open_science_networks_map)
+  - ~~[**openAnalysis** by *hdoran*](https://hdoran.shinyapps.io/openAnalysis): Toolbar~~
+  - [**openfda-dashboard** by *diabetescheck*](https://diabetescheck.shinyapps.io/openfda-dashboard): FDA Adverse Event Dashboard [repo](https://github.com/statwonk/openfda-dashboard)
+  - ~~[**opioid\_rx\_rate** by *natea*](https://natea.shinyapps.io/opioid_rx_rate): Opioid Prescribing Rate Visualizations~~
+  - ~~[**OpioidActionPlan** by *injuryfreenc*](https://injuryfreenc.shinyapps.io/OpioidActionPlan): NC Opioid Dashboard~~
+  - ~~[**optimal\_identification** by *mmcbee*](https://mmcbee.shinyapps.io/optimal_identification): Optimal Gifted Identification~~
+  - ~~[**orcid** by *aushsi*](https://aushsi.shinyapps.io/orcid): Reducing the administrative burden on researchers~~
+  - ~~[**oreilly\_data\_science\_salary** by *yasserglez*](https://yasserglez.shinyapps.io/oreilly_data_science_salary): O’Reilly ‘2015 Data Science Salary Survey’ models [repo](https://github.com/yasserglez/oreilly_data_science_salary)~~
+  - ~~[**osf\_shinyapp** by *kissel*](https://kissel.shinyapps.io/osf_shinyapp): Population supplemenation options for the Oregon spotted frog in British Columbia~~
+  - ~~[**Overall\_ecosystem\_stability\_demo** by *frankpennekamp*](https://frankpennekamp.shinyapps.io/Overall_ecosystem_stability_demo): Overall ecosystem stability~~
+  - ~~[**Overplots** by *johnyagecic*](https://johnyagecic.shinyapps.io/Overplots): Input Variables~~
+  - ~~[**OxRep\_maps\_mines** by *livedataoxford*](https://livedataoxford.shinyapps.io/OxRep_maps_mines): Oxford Roman Economy Project~~
 
 ## P
 
