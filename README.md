@@ -1,2 +1,2 @@
-# awesome-ShinyApps
-A curated list of awesome ShinyApps and their source code.
+# Cool ShinyApps
+A curated list of cool ShinyApps and their source code.
