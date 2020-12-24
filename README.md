@@ -83,408 +83,151 @@ The majority of ShinyApps listed below are collected from [Michael W. Kearney](h
   - [**alleleFrequencyApp** by *jamesware*](https://jamesware.shinyapps.io/alleleFrequencyApp): Frequency Filter [repo](https://github.com/jamesware/alleleFrequencyApp)
   - ~~[**allsvenskan** by *erik-andreasson*](https://erik-andreasson.shinyapps.io/allsvenskan): Allsvenskan~~
   - ~~[**alpha\_variance** by *kk-gds*](https://kk-gds.shinyapps.io/alpha_variance): 降水量の一般化分散~~
-  - [**alphasimrshiny** by
-    *alphagenes*](https://alphagenes.shinyapps.io/alphasimrshiny):
-    AlphaSimR
-  - [**alternative\_media\_sources\_in\_afd-centered\_facebook\_discussions**
-    by
-    *bachl*](https://bachl.shinyapps.io/alternative_media_sources_in_afd-centered_facebook_discussions):
-    Figures for “(Alternative) Media Sources in AfD-centered Facebook
-    Discussions”
-  - [**altm2015top100** by
-    *ttso*](https://ttso.shinyapps.io/altm2015top100): Average metrics
-    by country
-  - [**altm2016top100** by
-    *ttso*](https://ttso.shinyapps.io/altm2016top100): Average metrics
-    by country
-  - [**altmpolicy** by *ttso*](https://ttso.shinyapps.io/altmpolicy):
-    Click to select items to table below. You can also zoom in/out
-  - [**AMADA** by
-    *cosmostatisticsinitiative*](https://cosmostatisticsinitiative.shinyapps.io/AMADA):
-    AMADA Web User Interface (v0.2)
-  - [**AmazingBirds** by
-    *gatesd*](https://gatesd.shinyapps.io/AmazingBirds): 10 Amazing
-    Birds
-  - [**ames-explorer** by
-    *gallery*](https://gallery.shinyapps.io/ames-explorer): Ames Housing
-    Data Explorer
-  - [**amphitheaterelevations** by
-    *sfsheath*](https://sfsheath.shinyapps.io/amphitheaterelevations):
-    Roman Amphitheaters
-  - [**analisis-candidatos-diputado-2017** by
-    *pdelboca*](https://pdelboca.shinyapps.io/analisis-candidatos-diputado-2017):
-    Candidatos Córdoba 2017
-  - [**andromeda\_shock\_bayesian** by
-    *benjamin-andrew*](https://benjamin-andrew.shinyapps.io/andromeda_shock_bayesian):
-    ANDROMEDA-SHOCK Bayesian Re-Analysis
-  - [**Anova** by *drkhaled*](https://drkhaled.shinyapps.io/Anova):
-    one-way ANOVA sample calculator by Khaled Alqahtani
-    @alqahtani\_khald
-  - [**anova\_shiny\_rstudio** by
-    *gallery*](https://gallery.shinyapps.io/anova_shiny_rstudio): Sums
-    of squares in ANOVA
-  - [**anscombe** by
-    *thisisnic*](https://thisisnic.shinyapps.io/anscombe): Exploring
-    Anscombe’s Quartet
-  - [**Anscombes-Quartet** by
-    *mangothecat*](https://mangothecat.shinyapps.io/Anscombes-Quartet):
-    About
-  - [**ant\_collective\_decision** by
-    *sjmgarnier*](https://sjmgarnier.shinyapps.io/ant_collective_decision):
-    Collective food source selection in ants
-  - [**APIM\_MM** by
-    *davidakenny*](https://davidakenny.shinyapps.io/APIM_MM):
-    Actor-Partner Interdependence Model
-  - [**APIM\_SEM** by
-    *larastas*](https://larastas.shinyapps.io/APIM_SEM): The Actor
-    Partner Interdependence Model
-  - [**APIMeM** by
-    *davidakenny*](https://davidakenny.shinyapps.io/APIMeM):
-    Actor-Partner Interdependence Mediation Model
-  - [**APIMPowerR** by
-    *robert-ackerman*](https://robert-ackerman.shinyapps.io/APIMPowerR):
-    APIM Power
-  - [**APIMPowerRdis** by
-    *robert-a-ackerman*](https://robert-a-ackerman.shinyapps.io/APIMPowerRdis):
-    Power Analysis for the Actor-Partner Interdependence Model
-  - [**AplusB** by
-    *graham-wheeler*](https://graham-wheeler.shinyapps.io/AplusB):
-    AplusB: A + B design investigator for phase I dose-escalation
-    studies
-  - [**aportesprivados** by
-    *ekonos*](https://ekonos.shinyapps.io/aportesprivados): Filtros
-  - [**App-1** by
-    *actuarialanddataanalytics*](https://actuarialanddataanalytics.shinyapps.io/App-1):
-    Reserve(ML)
-  - [**App-1** by
-    *gabrielareto*](https://gabrielareto.shinyapps.io/App-1): Palette
-    Extractor
-  - [**App-1** by
-    *jerryaoverton*](https://jerryaoverton.shinyapps.io/App-1): DXC’s
-    Business Model Simulator
-  - [**App-1** by *murilofm*](https://murilofm.shinyapps.io/App-1):
-    Ilhas de votação - Eleições de 2014 \[2o turno\]
-  - [**App-FashionOnTwitter** by
-    *powchow*](https://powchow.shinyapps.io/App-FashionOnTwitter):
-    Fashion on Twitter
-  - [**app-gui** by *zedoul*](https://zedoul.shinyapps.io/app-gui):
-    Prototype: Gang of Four
-  - [**app1** by *darrendahly*](https://darrendahly.shinyapps.io/app1):
-    What % of females should I expect, given these differences in the
-    sex-specific normal distributions of techiness?
-  - [**app\_cellcycle** by
-    *david-systemsforecasting*](https://david-systemsforecasting.shinyapps.io/app_cellcycle):
-    CellCycler
-  - [**app\_HLL** by *rivm*](https://rivm.shinyapps.io/app_HLL):
-    Prototype dashboard sensoren Hollandse Luchten
-  - [**app\_rentorbuyer** by
-    *david-systemsforecasting*](https://david-systemsforecasting.shinyapps.io/app_rentorbuyer):
-    RentOrBuyer
-  - [**AppCC** by
-    *pawelmatuszewski*](https://pawelmatuszewski.shinyapps.io/AppCC):
-    Tematy
-  - [**apple\_watch\_dashboard** by
-    *raviolli77*](https://raviolli77.shinyapps.io/apple_watch_dashboard):
-    Apple Watch Dashboard
-  - [**application** by
-    *mounabelaid*](https://mounabelaid.shinyapps.io/application): Mona’s
-    up 1: Create your wordcloud
-  - [**AppOnline** by
-    *colombian-schools-geodata*](https://colombian-schools-geodata.shinyapps.io/AppOnline):
-    Station Lookup
-  - [**AppPredPerf** by
-    *gvinue*](https://gvinue.shinyapps.io/AppPredPerf): Forecasting
-    basketball performance
-  - [**appShiny** by
-    *alvarobusot*](https://alvarobusot.shinyapps.io/appShiny): Body Mass
-    Index (BMI), Body Fat Percentaje (BFP) and ideal weight
-  - [**AppTypeIPower** by
-    *vasishth*](https://vasishth.shinyapps.io/AppTypeIPower): Type I and
-    Type II error in the Normal distribution
-  - [**aqua-mapping-dashboard** by
-    *sfg-ucsb*](https://sfg-ucsb.shinyapps.io/aqua-mapping-dashboard):
-    Aquaculture Mapping Dashboard
-  - [**aranoisy** by *jlgroup*](https://jlgroup.shinyapps.io/aranoisy):
-    AraNoisy
-  - [**arbrenadal** by *ubidi*](https://ubidi.shinyapps.io/arbrenadal):
-    Configure your SIGNIFICANT christmas tree (beta v.1.0)
-  - [**archidart** by
-    *plantmodelling*](https://plantmodelling.shinyapps.io/archidart):
-    archiDART
-  - [**arewerepresented** by
-    *wandernat*](https://wandernat.shinyapps.io/arewerepresented): Are
-    We Represented?
-  - [**ARPsimulator** by
-    *jepusto*](https://jepusto.shinyapps.io/ARPsimulator): Alternating
-    Renewal Process Simulator
-  - [**arsef\_hypocreales\_mapping** by
-    *lovettbr*](https://lovettbr.shinyapps.io/arsef_hypocreales_mapping):
-    Geographical Distribution of ARSEF Hypocreales
-  - [**arxiv\_topicmodels** by
-    *polyphant*](https://polyphant.shinyapps.io/arxiv_topicmodels):
-    Topic Modelling astro-ph
-  - [**asashootingapp\_development** by
-    *asashinyapps*](https://asashinyapps.shinyapps.io/asashootingapp_development):
-    ASA Database
-  - [**ascvd** by *sanjaybasu*](https://sanjaybasu.shinyapps.io/ascvd):
-    ASCVD
-  - [**askmusic** by
-    *askmusic*](https://askmusic.shinyapps.io/askmusic): Understand the
-    risk of prostate cancer
-  - [**Assignment\_Part1\_files** by
-    *a6111e*](https://a6111e.shinyapps.io/Assignment_Part1_files): Gross
-    Domestic Product App
-  - [**assist\_networks** by
-    *lbenz730*](https://lbenz730.shinyapps.io/assist_networks): College
-    Basketball Assist Networks
-  - [**Association\_Categorical** by
-    *istats*](https://istats.shinyapps.io/Association_Categorical):
-    Association Categorical Variables
-  - [**asymptotics** by
-    *ukacz*](https://ukacz.shinyapps.io/asymptotics): asymptotics & the
-    behavior of large sample sizes
-  - [**atheist\_rate** by
-    *willgervais*](https://willgervais.shinyapps.io/atheist_rate):
-    Direct and Indirect Atheist Prevalence Estimates
-  - [**atlas\_nacional** by
-    *medea3*](https://medea3.shinyapps.io/atlas_nacional): Atlas
-    Nacional de Mortalidad en España
-  - [**ATP-Tennis-Player-Ranking-Forecast** by
-    *bigtimestats*](https://bigtimestats.shinyapps.io/ATP-Tennis-Player-Ranking-Forecast):
-    BigTimeStats Tennis
-  - [**ATRmap** by *tree-ring*](https://tree-ring.shinyapps.io/ATRmap):
-    Map of tree-ring labs
-  - [**ausemploymentflows** by
-    *timcameron*](https://timcameron.shinyapps.io/ausemploymentflows):
-    Australian Monthly Employment Flows
-  - [**AusGovInfo** by
-    *marcuspaget*](https://marcuspaget.shinyapps.io/AusGovInfo):
-    Disaster Events
-  - [**Auswaertstor-Siegchancen** by
-    *datakicks*](https://datakicks.shinyapps.io/Auswaertstor-Siegchancen):
-    Siegchancen nach dem Hinspiel in der Champions- oder Europaleague
-  - [**AutomatedForecastingWithShiny** by
-    *pmaier1971*](https://pmaier1971.shinyapps.io/AutomatedForecastingWithShiny):
-    Economic Dashboard
-  - [**autosmry** by
-    *bruce-meng*](https://bruce-meng.shinyapps.io/autosmry): autoSmry
-  - [**AVbingo** by *hayle*](https://hayle.shinyapps.io/AVbingo): Animal
-    Sound Bingo
-  - [**avian\_stochcrm** by
-    *dmpstats*](https://dmpstats.shinyapps.io/avian_stochcrm): Avian
-    Stochastic CRM
+  - ~~[**alphasimrshiny** by *alphagenes*](https://alphagenes.shinyapps.io/alphasimrshiny): AlphaSimR~~
+  - ~~[**alternative\_media\_sources\_in\_afd-centered\_facebook\_discussions** by *bachl*](https://bachl.shinyapps.io/alternative_media_sources_in_afd-centered_facebook_discussions): Figures for "(Alternative) Media Sources in AfD-centered Facebook Discussions"~~
+  - [**altm2015top100** by *ttso*](https://ttso.shinyapps.io/altm2015top100): Average metrics by country [repo](https://gist.github.com/tts/c6f8cb8a66f1bb9a21f0)
+  - [**altm2016top100** by *ttso*](https://ttso.shinyapps.io/altm2016top100): Average metrics by country [repo](https://github.com/tts/altm2016top100)
+  - [**altmpolicy** by *ttso*](https://ttso.shinyapps.io/altmpolicy): Click to select items to table below. You can also zoom in/out [repo](https://github.com/tts/altmpolicy)
+  - [**AMADA** by *cosmostatisticsinitiative*](https://cosmostatisticsinitiative.shinyapps.io/AMADA): AMADA Web User Interface (v0.2) [repo](https://github.com/RafaelSdeSouza/AMADA_shiny)
+  - ~~[**AmazingBirds** by *gatesd*](https://gatesd.shinyapps.io/AmazingBirds): 10 Amazing Birds~~
+  - ~~[**ames-explorer** by *gallery*](https://gallery.shinyapps.io/ames-explorer): Ames Housing Data Explorer~~
+  - ~~[**amphitheaterelevations** by *sfsheath*](https://sfsheath.shinyapps.io/amphitheaterelevations): Roman Amphitheaters~~
+  - ~~[**analisis-candidatos-diputado-2017** by *pdelboca*](https://pdelboca.shinyapps.io/analisis-candidatos-diputado-2017): Candidatos Córdoba 2017~~
+  - ~~[**andromeda\_shock\_bayesian** by *benjamin-andrew*](https://benjamin-andrew.shinyapps.io/andromeda_shock_bayesian): ANDROMEDA-SHOCK Bayesian Re-Analysis~~
+  - ~~[**Anova** by *drkhaled*](https://drkhaled.shinyapps.io/Anova): one-way ANOVA sample calculator by Khaled Alqahtani @alqahtani\_khald~~
+  - ~~[**anova\_shiny\_rstudio** by *gallery*](https://gallery.shinyapps.io/anova_shiny_rstudio): Sums of squares in ANOVA~~
+  - ~~[**anscombe** by *thisisnic*](https://thisisnic.shinyapps.io/anscombe): Exploring Anscombe’s Quartet~~
+  - ~~[**Anscombes-Quartet** by *mangothecat*](https://mangothecat.shinyapps.io/Anscombes-Quartet): About~~
+  - ~~[**ant\_collective\_decision** by *sjmgarnier*](https://sjmgarnier.shinyapps.io/ant_collective_decision): Collective food source selection in ants~~
+  - ~~[**APIM\_MM** by *davidakenny*](https://davidakenny.shinyapps.io/APIM_MM): Actor-Partner Interdependence Model~~
+  - ~~[**APIM\_SEM** by *larastas*](https://larastas.shinyapps.io/APIM_SEM): The Actor Partner Interdependence Model~~
+  - ~~[**APIMeM** by *davidakenny*](https://davidakenny.shinyapps.io/APIMeM): Actor-Partner Interdependence Mediation Model~~
+  - ~~[**APIMPowerR** by *robert-ackerman*](https://robert-ackerman.shinyapps.io/APIMPowerR): APIM Power~~
+  - ~~[**APIMPowerRdis** by *robert-a-ackerman*](https://robert-a-ackerman.shinyapps.io/APIMPowerRdis): Power Analysis for the Actor-Partner Interdependence Model~~
+  - ~~[**AplusB** by *graham-wheeler*](https://graham-wheeler.shinyapps.io/AplusB): AplusB: A + B design investigator for phase I dose-escalation studies~~
+  - ~~[**aportesprivados** by *ekonos*](https://ekonos.shinyapps.io/aportesprivados): Filtros~~
+  - ~~[**App-1** by *actuarialanddataanalytics*](https://actuarialanddataanalytics.shinyapps.io/App-1): Reserve(ML)~~
+  - ~~[**App-1** by *gabrielareto*](https://gabrielareto.shinyapps.io/App-1): Palette Extractor~~
+  - ~~[**App-1** by *jerryaoverton*](https://jerryaoverton.shinyapps.io/App-1): DXC’s Business Model Simulator~~
+  - ~~[**App-1** by *murilofm*](https://murilofm.shinyapps.io/App-1): Ilhas de votação - Eleições de 2014 \[2o turno\]~~
+  - ~~[**App-FashionOnTwitter** by *powchow*](https://powchow.shinyapps.io/App-FashionOnTwitter): Fashion on Twitter~~
+  - ~~[**app-gui** by *zedoul*](https://zedoul.shinyapps.io/app-gui): Prototype: Gang of Four~~
+  - ~~[**app1** by *darrendahly*](https://darrendahly.shinyapps.io/app1): What % of females should I expect, given these differences in the sex-specific normal distributions of techiness?~~
+  - ~~[**app\_cellcycle** by *david-systemsforecasting*](https://david-systemsforecasting.shinyapps.io/app_cellcycle): CellCycler~~
+  - ~~[**app\_HLL** by *rivm*](https://rivm.shinyapps.io/app_HLL): Prototype dashboard sensoren Hollandse Luchten~~
+  - ~~[**app\_rentorbuyer** by *david-systemsforecasting*](https://david-systemsforecasting.shinyapps.io/app_rentorbuyer): RentOrBuyer~~
+  - ~~[**AppCC** by *pawelmatuszewski*](https://pawelmatuszewski.shinyapps.io/AppCC): Tematy~~
+  - ~~[**apple\_watch\_dashboard** by *raviolli77*](https://raviolli77.shinyapps.io/apple_watch_dashboard): Apple Watch Dashboard~~
+  - ~~[**application** by *mounabelaid*](https://mounabelaid.shinyapps.io/application): Mona’s up 1: Create your wordcloud~~
+  - ~~[**AppOnline** by *colombian-schools-geodata*](https://colombian-schools-geodata.shinyapps.io/AppOnline): Station Lookup~~
+  - ~~[**AppPredPerf** by *gvinue*](https://gvinue.shinyapps.io/AppPredPerf): Forecasting basketball performance~~
+  - ~~[**appShiny** by *alvarobusot*](https://alvarobusot.shinyapps.io/appShiny): Body Mass Index (BMI), Body Fat Percentaje (BFP) and ideal weight~~
+  - ~~[**AppTypeIPower** by *vasishth*](https://vasishth.shinyapps.io/AppTypeIPower): Type I and Type II error in the Normal distribution~~
+  - ~~[**aqua-mapping-dashboard** by *sfg-ucsb*](https://sfg-ucsb.shinyapps.io/aqua-mapping-dashboard): Aquaculture Mapping Dashboard~~
+  - ~~[**aranoisy** by *jlgroup*](https://jlgroup.shinyapps.io/aranoisy): AraNoisy~~
+  - ~~[**arbrenadal** by *ubidi*](https://ubidi.shinyapps.io/arbrenadal): Configure your SIGNIFICANT christmas tree (beta v.1.0)~~
+  - ~~[**archidart** by *plantmodelling*](https://plantmodelling.shinyapps.io/archidart): archiDART~~
+  - ~~[**arewerepresented** by *wandernat*](https://wandernat.shinyapps.io/arewerepresented): Are We Represented?~~
+  - ~~[**ARPsimulator** by *jepusto*](https://jepusto.shinyapps.io/ARPsimulator): Alternating Renewal Process Simulator~~
+  - ~~[**arsef\_hypocreales\_mapping** by *lovettbr*](https://lovettbr.shinyapps.io/arsef_hypocreales_mapping): Geographical Distribution of ARSEF Hypocreales~~
+  - ~~[**arxiv\_topicmodels** by *polyphant*](https://polyphant.shinyapps.io/arxiv_topicmodels): Topic Modelling astro-ph~~
+  - ~~[**asashootingapp\_development** by *asashinyapps*](https://asashinyapps.shinyapps.io/asashootingapp_development): ASA Database~~
+  - ~~[**ascvd** by *sanjaybasu*](https://sanjaybasu.shinyapps.io/ascvd): ASCVD~~
+  - ~~[**askmusic** by *askmusic*](https://askmusic.shinyapps.io/askmusic): Understand the risk of prostate cancer~~
+  - ~~[**Assignment\_Part1\_files** by *a6111e*](https://a6111e.shinyapps.io/Assignment_Part1_files): Gross Domestic Product App~~
+  - ~~[**assist\_networks** by *lbenz730*](https://lbenz730.shinyapps.io/assist_networks): College Basketball Assist Networks~~
+  - ~~[**Association\_Categorical** by *istats*](https://istats.shinyapps.io/Association_Categorical): Association Categorical Variables~~
+  - ~~[**asymptotics** by *ukacz*](https://ukacz.shinyapps.io/asymptotics): asymptotics & the behavior of large sample sizes~~
+  - ~~[**atheist\_rate** by *willgervais*](https://willgervais.shinyapps.io/atheist_rate): Direct and Indirect Atheist Prevalence Estimates~~
+  - ~~[**atlas\_nacional** by *medea3*](https://medea3.shinyapps.io/atlas_nacional): Atlas Nacional de Mortalidad en España~~
+  - ~~[**ATP-Tennis-Player-Ranking-Forecast** by *bigtimestats*](https://bigtimestats.shinyapps.io/ATP-Tennis-Player-Ranking-Forecast): BigTimeStats Tennis~~
+  - ~~[**ATRmap** by *tree-ring*](https://tree-ring.shinyapps.io/ATRmap): Map of tree-ring labs~~
+  - ~~[**ausemploymentflows** by *timcameron*](https://timcameron.shinyapps.io/ausemploymentflows): Australian Monthly Employment Flows~~
+  - ~~[**AusGovInfo** by *marcuspaget*](https://marcuspaget.shinyapps.io/AusGovInfo): Disaster Events~~
+  - ~~[**Auswaertstor-Siegchancen** by *datakicks*](https://datakicks.shinyapps.io/Auswaertstor-Siegchancen): Siegchancen nach dem Hinspiel in der Champions- oder Europaleague~~
+  - ~~[**AutomatedForecastingWithShiny** by *pmaier1971*](https://pmaier1971.shinyapps.io/AutomatedForecastingWithShiny): Economic Dashboard~~
+  - ~~[**autosmry** by *bruce-meng*](https://bruce-meng.shinyapps.io/autosmry): autoSmry~~
+  - ~~[**AVbingo** by *hayle*](https://hayle.shinyapps.io/AVbingo): Animal Sound Bingo~~
+  - [**avian\_stochcrm** by *dmpstats*](https://dmpstats.shinyapps.io/avian_stochcrm): Avian Stochastic CRM [repo](https://github.com/dmpstats/stochCRM)
 
 ## B
 
-  - [**B-VBGM** by
-    *fishecology*](https://fishecology.shinyapps.io/B-VBGM): B-VBGM\!
-    Bayesian Von Bertalanffy Growth Model
-  - [**baby\_names\_shiny\_appy** by
-    *ronammar*](https://ronammar.shinyapps.io/baby_names_shiny_appy):
-    Popularity of baby names in the USA since 1880 (data from SSA )
-  - [**babynames** by
-    *justmarkham*](https://justmarkham.shinyapps.io/babynames): Baby
-    Names by Birth Year
-  - [**babynames-master** by
-    *bsuthersan*](https://bsuthersan.shinyapps.io/babynames-master):
-    Baby names
-  - [**babypower** by
-    *langcog*](https://langcog.shinyapps.io/babypower): Statistics and
-    Power Analysis in Infancy Research
-  - [**BabyPredictor** by
-    *mikebirdgeneau*](https://mikebirdgeneau.shinyapps.io/BabyPredictor):
-    Birdgeneau Baby Predictor
-  - [**bachelorsPHD** by
-    *d-miller*](https://d-miller.shinyapps.io/bachelorsPHD): Bachelor’s
-    -\> PhD rates
-  - [**BacktestVaR** by *cfrm*](https://cfrm.shinyapps.io/BacktestVaR):
-    Value at Risk Backtest
-  - [**bakkenExplorer** by
-    *enfinexplorer*](https://enfinexplorer.shinyapps.io/bakkenExplorer):
-    Bakken Explorer
-  - [**BARDA\_sepsis\_study** by
-    *lippincott*](https://lippincott.shinyapps.io/BARDA_sepsis_study):
-    Sepsis among Medicare beneficiaries
-  - [**barplotNonsense** by
-    *stekhoven*](https://stekhoven.shinyapps.io/barplotNonsense): Why
-    barplots are (often) nonsense
-  - [**BaseballStats** by
-    *malter61*](https://malter61.shinyapps.io/BaseballStats): Baseball
-    Runs Potential Analysis by Mark Malter
-  - [**basic** by
-    *thomassiegmund*](https://thomassiegmund.shinyapps.io/basic): Basic
-    usage of D3TableFilter in Shiny
-  - [**Basic\_Values** by
-    *rudnev*](https://rudnev.shinyapps.io/Basic_Values): Basic values in
-    Europe
-  - [**basics-vis** by
-    *fgeocomm*](https://fgeocomm.shinyapps.io/basics-vis): Data
-    Visualization Basics
-  - [**basicShiny** by
-    *dreamrs-vic*](https://dreamrs-vic.shinyapps.io/basicShiny):
-    Bienvenue dans l’application basic sur les R Addicts \!
-  - [**basicstats** by
-    *jalapic*](https://jalapic.shinyapps.io/basicstats): Exploring Data
-  - [**bayes** by
-    *patrickbarks*](https://patrickbarks.shinyapps.io/bayes): Bayesian
-    inference for a population mean
-  - [**Bayes-App** by
-    *ldberriz*](https://ldberriz.shinyapps.io/Bayes-App): Bayesian
-    Clinical Diagnostic Model
-  - [**BayesCalculator** by
-    *ahalterman*](https://ahalterman.shinyapps.io/BayesCalculator):
-    Getting to Donbass
-  - [**bayesNeuro** by *sapsi*](https://sapsi.shinyapps.io/bayesNeuro):
-    Estimativas para estudos caso-controle
-  - [**bayesonline** by
-    *matthewmatix*](https://matthewmatix.shinyapps.io/bayesonline): Easy
-    Bayesian data analysis online
-  - [**Beatles\_Live\_Perfomances** by
-    *lebryant126*](https://lebryant126.shinyapps.io/Beatles_Live_Perfomances):
-    The Beatles’ Live Performances from August 1960 to August 1966
-  - [**BECon** by *redgar598*](https://redgar598.shinyapps.io/BECon):
-    BECon
-  - [**Bees-Needs-App** by
-    *cjschwantes*](https://cjschwantes.shinyapps.io/Bees-Needs-App):
-    Bees Needs Interactive Data
-  - [**bencana** by
-    *bencanavis*](https://bencanavis.shinyapps.io/bencana): BencanaVis
-  - [**bensinkalkulator** by
-    *enerwe*](https://enerwe.shinyapps.io/bensinkalkulator):
-    Bensinkalkulator
-  - [**Beta61** by
-    *tokyofoundation*](https://tokyofoundation.shinyapps.io/Beta61):
-    推計結果
-  - [**beta\_maker** by
-    *blackfist*](https://blackfist.shinyapps.io/beta_maker): Beta
-    Parameter getter
-  - [**BeyondEPV** by
-    *mvansmeden*](https://mvansmeden.shinyapps.io/BeyondEPV): This is a
-    BETA version
-  - [**bifor** by *aglhurley*](https://aglhurley.shinyapps.io/bifor):
-    Birmingham Institute of Forest Research
-  - [**billboard** by
-    *reisanar*](https://reisanar.shinyapps.io/billboard): Songs from
-    Billboard Top 100 List (1960 to 2015)
-  - [**bioenergetics4** by
-    *bioenergetics4*](https://bioenergetics4.shinyapps.io/bioenergetics4):
-    R Fish Bioenergetics 4.0
-  - [**biopsy\_nomogram** by
-    *canarypass*](https://canarypass.shinyapps.io/biopsy_nomogram): PASS
-    Risk Calculator
-  - [**Biostatistics\_Review\_Times** by
-    *jhubiostatistics*](https://jhubiostatistics.shinyapps.io/Biostatistics_Review_Times):
-    Biostatistics Review Times
-  - [**bird\_beauty\_quiz** by
-    *boecul*](https://boecul.shinyapps.io/bird_beauty_quiz): A couple
-    quick questions before you start
-  - [**bird\_map** by
-    *alex-baransky*](https://alex-baransky.shinyapps.io/bird_map): 2016
-    US Bird Range
-  - [**bird\_vocal\_scaling** by
-    *wilkins*](https://wilkins.shinyapps.io/bird_vocal_scaling): Bird
-    Vocal Scaling
-  - [**birdsong\_beauty\_quiz** by
-    *boecul*](https://boecul.shinyapps.io/birdsong_beauty_quiz): A
-    couple quick questions before you start
-  - [**birthday\_app** by
-    *spholmes*](https://spholmes.shinyapps.io/birthday_app): Random
-    Birthday Applet
-  - [**black-white-life-expectancy** by
-    *corinne-riddell*](https://corinne-riddell.shinyapps.io/black-white-life-expectancy):
-    Explore the black-white life expectancy gap in the United States
-  - [**blogimpact** by
-    *wilkinsondi*](https://wilkinsondi.shinyapps.io/blogimpact): Blog
-    Impact
-  - [**BMOP** by *cawthron*](https://cawthron.shinyapps.io/BMOP): Blue
-    Mussel Oversettlement
-  - [**boardgame\_reco** by
-    *larrydag*](https://larrydag.shinyapps.io/boardgame_reco): Boardgame
-    Recommendations
-  - [**BoatRunExplorer** by
-    *johnyagecic*](https://johnyagecic.shinyapps.io/BoatRunExplorer):
-    DRBC Delaware Estuary Water Quality (Boat Run) Explorer
-  - [**BookRecommendation** by
-    *philippsp*](https://philippsp.shinyapps.io/BookRecommendation):
-    Book Recommender
-  - [**books** by *runzemc*](https://runzemc.shinyapps.io/books):
-    Recommender for New York Times and NPR best-sellers, and Goodreads
-    ‘books that everyone should read at least once’
-  - [**boot-perm-dash** by
-    *mattkmiecik*](https://mattkmiecik.shinyapps.io/boot-perm-dash):
-    Bootstrapping and Permutation Testing
-  - [**bootci** by *istats*](https://istats.shinyapps.io/bootci):
-    Bootstrap Confidence Interval for a Parameter from a Single
-    Population
-  - [**bootLRshiny** by
-    *abfriedman*](https://abfriedman.shinyapps.io/bootLRshiny):
-    Diagnostic test statistics from a 2x2 table
-  - [**BoredPanda** by
-    *rahulsinghania*](https://rahulsinghania.shinyapps.io/BoredPanda):
-    Bored Panda
-  - [**boston\_police\_incidents** by
-    *vlandham*](https://vlandham.shinyapps.io/boston_police_incidents):
-    Boston Police Incident Data
-  - [**bostonsolar** by
-    *tcb-analytics*](https://tcb-analytics.shinyapps.io/bostonsolar):
-    Beantown Solar: The Future Never Looked So Bright
-  - [**botornot** by *mikewk*](https://mikewk.shinyapps.io/botornot):
-    {TweetBotOrNot}
-  - [**Bots** by *itaysisso*](https://itaysisso.shinyapps.io/Bots):
-    Making MTurk Great Again
-  - [**boxplot** by *gallery*](https://gallery.shinyapps.io/boxplot):
-    Boxplots & Histograms
-  - [**brain\_gene\_expression** by
-    *amckenz*](https://amckenz.shinyapps.io/brain_gene_expression):
-    Brain cell gene expression data
-  - [**BrewTourAnalytics** by
-    *derekqiu*](https://derekqiu.shinyapps.io/BrewTourAnalytics):
-    Brewery Explorer
-  - [**BrownianMotion** by
-    *abichat*](https://abichat.shinyapps.io/BrownianMotion): Simulation
-    of Brownian Motion
-  - [**brutalizeR** by
-    *bfrickert*](https://bfrickert.shinyapps.io/brutalizeR): A Satanic
-    Study of Time Series Variance
-  - [**bs4DashDemo** by
-    *dgranjon*](https://dgranjon.shinyapps.io/bs4DashDemo): bs4Dash
-    Showcase
-  - [**BTCmining** by *canaan*](https://canaan.shinyapps.io/BTCmining):
-    Bitcoin Mining Profits
-  - [**btshiny** by *dgabbe*](https://dgabbe.shinyapps.io/btshiny):
-    Bicycle Tire Pressure Optimizer
-  - [**bud1** by *econdata*](https://econdata.shinyapps.io/bud1): Budget
-    of the United States Government
-  - [**Build-A-Bayes** by
-    *cidlab*](https://cidlab.shinyapps.io/Build-A-Bayes): Build-A-Bayes
-  - [**building\_ols\_intuition** by
-    *evangelinereynolds*](https://evangelinereynolds.shinyapps.io/building_ols_intuition):
-    Minimize sum of squared residuals (‘Manual OLS’):
-  - [**bulmaExtension** by
-    *dgranjon*](https://dgranjon.shinyapps.io/bulmaExtension): Inputs
-  - [**BumpCharts** by
-    *data-slinky*](https://data-slinky.shinyapps.io/BumpCharts): College
-    Rankings Bump Charts
-  - [**BurghsEyeView** by
-    *pittsburghpa*](https://pittsburghpa.shinyapps.io/BurghsEyeView):
-    Burgh’s Eye View Points
-  - [**BurghsEyeViewParcels** by
-    *pittsburghpa*](https://pittsburghpa.shinyapps.io/BurghsEyeViewParcels):
-    Burgh’s Eye View Parcels
-  - [**BurghsEyeViewTrees** by
-    *pittsburghpa*](https://pittsburghpa.shinyapps.io/BurghsEyeViewTrees):
-    Trees N’At
-  - [**burn-hurt** by
-    *johnson*](https://johnson.shinyapps.io/burn-hurt): 八仙塵爆分析
-  - [**bus\_simulator** by
-    *marcus*](https://marcus.shinyapps.io/bus_simulator): Beat the Trend
-    - The Domino Bus Group
-  - [**Business\_Dashboard** by
-    *reacfintools*](https://reacfintools.shinyapps.io/Business_Dashboard):
-    Business Dashboard
-  - [**BWB\_ontwikkeling\_Japanse\_fruivlieg** by
-    *udenvh*](https://udenvh.shinyapps.io/BWB_ontwikkeling_Japanse_fruivlieg):
-    Activiteit van de Japanse fruitvlieg
+  - ~~[**B-VBGM** by *fishecology*](https://fishecology.shinyapps.io/B-VBGM): B-VBGM\! Bayesian Von Bertalanffy Growth Model~~
+  - ~~[**baby\_names\_shiny\_appy** by *ronammar*](https://ronammar.shinyapps.io/baby_names_shiny_appy): Popularity of baby names in the USA since 1880 (data from SSA)~~
+  - ~~[**babynames** by *justmarkham*](https://justmarkham.shinyapps.io/babynames): Baby Names by Birth Year~~
+  - ~~[**babynames-master** by *bsuthersan*](https://bsuthersan.shinyapps.io/babynames-master): Baby names~~
+  - ~~[**babypower** by *langcog*](https://langcog.shinyapps.io/babypower): Statistics and Power Analysis in Infancy Research~~
+  - ~~[**BabyPredictor** by *mikebirdgeneau*](https://mikebirdgeneau.shinyapps.io/BabyPredictor): Birdgeneau Baby Predictor~~
+  - ~~[**bachelorsPHD** by *d-miller*](https://d-miller.shinyapps.io/bachelorsPHD): Bachelor’s -\> PhD rates~~
+  - ~~[**BacktestVaR** by *cfrm*](https://cfrm.shinyapps.io/BacktestVaR): Value at Risk Backtest~~
+  - ~~[**bakkenExplorer** by *enfinexplorer*](https://enfinexplorer.shinyapps.io/bakkenExplorer): Bakken Explorer~~
+  - ~~[**BARDA\_sepsis\_study** by *lippincott*](https://lippincott.shinyapps.io/BARDA_sepsis_study): Sepsis among Medicare beneficiaries~~
+  - ~~[**barplotNonsense** by *stekhoven*](https://stekhoven.shinyapps.io/barplotNonsense): Why barplots are (often) nonsense~~
+  - ~~[**BaseballStats** by *malter61*](https://malter61.shinyapps.io/BaseballStats): Baseball Runs Potential Analysis by Mark Malter~~
+  - ~~[**basic** by *thomassiegmund*](https://thomassiegmund.shinyapps.io/basic): Basic usage of D3TableFilter in Shiny~~
+  - ~~[**Basic\_Values** by *rudnev*](https://rudnev.shinyapps.io/Basic_Values): Basic values in Europe~~
+  - ~~[**basics-vis** by *fgeocomm*](https://fgeocomm.shinyapps.io/basics-vis): Data Visualization Basics~~
+  - ~~[**basicShiny** by *dreamrs-vic*](https://dreamrs-vic.shinyapps.io/basicShiny): Bienvenue dans l’application basic sur les R Addicts \!~~
+  - ~~[**basicstats** by *jalapic*](https://jalapic.shinyapps.io/basicstats): Exploring Data~~
+  - [**bayes** by *patrickbarks*](https://patrickbarks.shinyapps.io/bayes): Bayesian inference for a population mean [repo](https://github.com/patrickbarks/shiny-bayes)
+  - ~~[**Bayes-App** by *ldberriz*](https://ldberriz.shinyapps.io/Bayes-App): Bayesian Clinical Diagnostic Model~~
+  - ~~[**BayesCalculator** by *ahalterman*](https://ahalterman.shinyapps.io/BayesCalculator): Getting to Donbass~~
+  - ~~[**bayesNeuro** by *sapsi*](https://sapsi.shinyapps.io/bayesNeuro): Estimativas para estudos caso-controle~~
+  - ~~[**bayesonline** by *matthewmatix*](https://matthewmatix.shinyapps.io/bayesonline): Easy Bayesian data analysis online~~
+  - ~~[**Beatles\_Live\_Perfomances** by *lebryant126*](https://lebryant126.shinyapps.io/Beatles_Live_Perfomances): The Beatles’ Live Performances from August 1960 to August 1966~~
+  - ~~[**BECon** by *redgar598*](https://redgar598.shinyapps.io/BECon): BECon~~
+  - ~~[**Bees-Needs-App** by *cjschwantes*](https://cjschwantes.shinyapps.io/Bees-Needs-App): Bees Needs Interactive Data~~
+  - ~~[**bencana** by *bencanavis*](https://bencanavis.shinyapps.io/bencana): BencanaVis~~
+  - ~~[**bensinkalkulator** by *enerwe*](https://enerwe.shinyapps.io/bensinkalkulator): Bensinkalkulator~~
+  - ~~[**Beta61** by *tokyofoundation*](https://tokyofoundation.shinyapps.io/Beta61): 推計結果~~
+  - ~~[**beta\_maker** by *blackfist*](https://blackfist.shinyapps.io/beta_maker): Beta Parameter getter~~
+  - ~~[**BeyondEPV** by *mvansmeden*](https://mvansmeden.shinyapps.io/BeyondEPV): This is a BETA version~~
+  - ~~[**bifor** by *aglhurley*](https://aglhurley.shinyapps.io/bifor): Birmingham Institute of Forest Research~~
+  - ~~[**billboard** by *reisanar*](https://reisanar.shinyapps.io/billboard): Songs from Billboard Top 100 List (1960 to 2015)~~
+  - ~~[**bioenergetics4** by *bioenergetics4*](https://bioenergetics4.shinyapps.io/bioenergetics4): R Fish Bioenergetics 4.0~~
+  - ~~[**biopsy\_nomogram** by *canarypass*](https://canarypass.shinyapps.io/biopsy_nomogram): PASS Risk Calculator~~
+  - ~~[**Biostatistics\_Review\_Times** by *jhubiostatistics*](https://jhubiostatistics.shinyapps.io/Biostatistics_Review_Times): Biostatistics Review Times~~
+  - ~~[**bird\_beauty\_quiz** by *boecul*](https://boecul.shinyapps.io/bird_beauty_quiz): A couple quick questions before you start~~
+  - ~~[**bird\_map** by *alex-baransky*](https://alex-baransky.shinyapps.io/bird_map): 2016 US Bird Range~~
+  - ~~[**bird\_vocal\_scaling** by *wilkins*](https://wilkins.shinyapps.io/bird_vocal_scaling): Bird Vocal Scaling~~
+  - ~~[**birdsong\_beauty\_quiz** by *boecul*](https://boecul.shinyapps.io/birdsong_beauty_quiz): A couple quick questions before you start~~
+  - ~~[**birthday\_app** by *spholmes*](https://spholmes.shinyapps.io/birthday_app): Random Birthday Applet~~
+  - ~~[**black-white-life-expectancy** by *corinne-riddell*](https://corinne-riddell.shinyapps.io/black-white-life-expectancy): Explore the black-white life expectancy gap in the United States~~
+  - ~~[**blogimpact** by *wilkinsondi*](https://wilkinsondi.shinyapps.io/blogimpact): Blog Impact~~
+  - [**BMOP** by *cawthron*](https://cawthron.shinyapps.io/BMOP): Blue Mussel Oversettlement [repo not found]()
+  - ~~[**boardgame\_reco** by *larrydag*](https://larrydag.shinyapps.io/boardgame_reco): Boardgame Recommendations~~
+  - ~~[**BoatRunExplorer** by *johnyagecic*](https://johnyagecic.shinyapps.io/BoatRunExplorer): DRBC Delaware Estuary Water Quality (Boat Run) Explorer~~
+  - [**BookRecommendation** by *philippsp*](https://philippsp.shinyapps.io/BookRecommendation): Book Recommender [repo](https://github.com/pspachtholz/BookRecommender)
+  - [**books** by *runzemc*](https://runzemc.shinyapps.io/books): Recommender for New York Times and NPR best-sellers, and Goodreads 'books that everyone should read at least once' [repo](https://github.com/Runze/book_recommender)
+  - ~~[**boot-perm-dash** by *mattkmiecik*](https://mattkmiecik.shinyapps.io/boot-perm-dash): Bootstrapping and Permutation Testing~~
+  - ~~[**bootci** by *istats*](https://istats.shinyapps.io/bootci): Bootstrap Confidence Interval for a Parameter from a Single Population~~
+  - ~~[**bootLRshiny** by *abfriedman*](https://abfriedman.shinyapps.io/bootLRshiny): Diagnostic test statistics from a 2x2 table~~
+  - ~~[**BoredPanda** by *rahulsinghania*](https://rahulsinghania.shinyapps.io/BoredPanda): Bored Panda~~
+  - ~~[**boston\_police\_incidents** by *vlandham*](https://vlandham.shinyapps.io/boston_police_incidents): Boston Police Incident Data~~
+  - ~~[**bostonsolar** by *tcb-analytics*](https://tcb-analytics.shinyapps.io/bostonsolar): Beantown Solar: The Future Never Looked So Bright~~
+  - ~~[**botornot** by *mikewk*](https://mikewk.shinyapps.io/botornot): {TweetBotOrNot}~~
+  - ~~[**Bots** by *itaysisso*](https://itaysisso.shinyapps.io/Bots): Making MTurk Great Again~~
+  - ~~[**boxplot** by *gallery*](https://gallery.shinyapps.io/boxplot): Boxplots & Histograms~~
+  - ~~[**brain\_gene\_expression** by *amckenz*](https://amckenz.shinyapps.io/brain_gene_expression): Brain cell gene expression data~~
+  - [**BrewTourAnalytics** by *derekqiu*](https://derekqiu.shinyapps.io/BrewTourAnalytics): Brewery Explorer [repo not found]()
+  - ~~[**BrownianMotion** by *abichat*](https://abichat.shinyapps.io/BrownianMotion): Simulation of Brownian Motion~~
+  - ~~[**brutalizeR** by *bfrickert*](https://bfrickert.shinyapps.io/brutalizeR): A Satanic Study of Time Series Variance~~
+  - [**bs4DashDemo** by *dgranjon*](https://dgranjon.shinyapps.io/bs4DashDemo): bs4Dash Showcase
+  - ~~[**BTCmining** by *canaan*](https://canaan.shinyapps.io/BTCmining): Bitcoin Mining Profits~~
+  - ~~[**btshiny** by *dgabbe*](https://dgabbe.shinyapps.io/btshiny): Bicycle Tire Pressure Optimizer~~
+  - ~~[**bud1** by *econdata*](https://econdata.shinyapps.io/bud1): Budget of the United States Government~~
+  - ~~[**Build-A-Bayes** by *cidlab*](https://cidlab.shinyapps.io/Build-A-Bayes): Build-A-Bayes~~
+  - ~~[**building\_ols\_intuition** by *evangelinereynolds*](https://evangelinereynolds.shinyapps.io/building_ols_intuition): Minimize sum of squared residuals (‘Manual OLS’):~~
+  - [**bulmaExtension** by *dgranjon*](https://dgranjon.shinyapps.io/bulmaExtension): Inputs
+  - [**BumpCharts** by *data-slinky*](https://data-slinky.shinyapps.io/BumpCharts): College Rankings Bump Charts [repo](https://github.com/data-slinky/college_rankings)
+  - [**BurghsEyeView** by *pittsburghpa*](https://pittsburghpa.shinyapps.io/BurghsEyeView): Burgh’s Eye View Points [repo](https://github.com/CityofPittsburgh/burghs-eye-view)
+  - [**BurghsEyeViewParcels** by *pittsburghpa*](https://pittsburghpa.shinyapps.io/BurghsEyeViewParcels): Burgh’s Eye View Parcels [repo](https://github.com/CityofPittsburgh/burghs-eye-view-parcels)
+  - [**BurghsEyeViewPlaces** by *pittsburghpa*](https://pittsburghpa.shinyapps.io/BurghsEyeViewPlaces/): Burgh’s Eye View Places [repo](https://github.com/CityofPittsburgh/burghs-eye-view-places)
+  - [**BurghsEyeViewTrees** by *pittsburghpa*](https://pittsburghpa.shinyapps.io/BurghsEyeViewTrees): Trees N’At
+  - ~~[**burn-hurt** by *johnson*](https://johnson.shinyapps.io/burn-hurt): 八仙塵爆分析~~
+  - [**bus\_simulator** by *marcus*](https://marcus.shinyapps.io/bus_simulator): Beat the Trend - The Domino Bus Group [repo](https://github.com/marcusyoung/beat_the_trend)
+  - [**Business\_Dashboard** by *reacfintools*](https://reacfintools.shinyapps.io/Business_Dashboard): Business Dashboard
+  - ~~[**BWB\_ontwikkeling\_Japanse\_fruivlieg** by *udenvh*](https://udenvh.shinyapps.io/BWB_ontwikkeling_Japanse_fruivlieg): Activiteit van de Japanse fruitvlieg~~
 
 ## C
 
