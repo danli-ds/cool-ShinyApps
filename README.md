@@ -1770,42 +1770,19 @@ The majority of ShinyApps listed below are collected from [Michael W. Kearney](h
 
 ## K
 
-  - [**KaggleSurveyDataAnalysisDashboard** by
-    *anishwalia20*](https://anishwalia20.shinyapps.io/KaggleSurveyDataAnalysisDashboard):
-    Kaggle Survey Data analysis
-  - [**karachi\_property** by
-    *azam*](https://azam.shinyapps.io/karachi_property): Property Price
-    Predictor
-  - [**kcompshiny** by
-    *win-vector*](https://win-vector.shinyapps.io/kcompshiny): Messages
-  - [**kenya** by
-    *lenalyticslab*](https://lenalyticslab.shinyapps.io/kenya):
-    Visualizing Kenya County Data
-  - [**keras-customer-churn** by
-    *jjallaire*](https://jjallaire.shinyapps.io/keras-customer-churn):
-    Customer Churn Analytics
-  - [**kfre\_app** by
-    *mccudden*](https://mccudden.shinyapps.io/kfre_app): KFRE 2-year
-    Risk Variation Model
-  - [**klexdatr-movement** by
-    *poissonconsulting*](https://poissonconsulting.shinyapps.io/klexdatr-movement):
-    Kootenay Lake Fish Movement
-  - [**kmeans** by *jcheng*](https://jcheng.shinyapps.io/kmeans): Iris
-    k-means clustering
-  - [**knowlabshiny** by
-    *compassnz*](https://compassnz.shinyapps.io/knowlabshiny): Knowledge
-    Lab
-  - [**ky-house-18** by
-    *rkahne*](https://rkahne.shinyapps.io/ky-house-18): Kentucky
-    Election, 2018
-  - [**kyelect\_2018** by
-    *rkahne*](https://rkahne.shinyapps.io/kyelect_2018): Kentucky
-    Election, 2018
-  - [**kyleg** by *rkahne*](https://rkahne.shinyapps.io/kyleg):
-    Geographical Voting Visualization
-  - [**kyleg\_twitter** by
-    *rkahne*](https://rkahne.shinyapps.io/kyleg_twitter): Kentucky
-    Legislature Twitter Sentiment Dashboards
+  - ~~[**KaggleSurveyDataAnalysisDashboard** by *anishwalia20*](https://anishwalia20.shinyapps.io/KaggleSurveyDataAnalysisDashboard): Kaggle Survey Data analysis~~
+  - ~~[**karachi\_property** by *azam*](https://azam.shinyapps.io/karachi_property): Property Price Predictor~~
+  - ~~[**kcompshiny** by *win-vector*](https://win-vector.shinyapps.io/kcompshiny): Messages~~
+  - ~~[**kenya** by *lenalyticslab*](https://lenalyticslab.shinyapps.io/kenya): Visualizing Kenya County Data~~
+  - [**keras-customer-churn** by *jjallaire*](https://jjallaire.shinyapps.io/keras-customer-churn): Customer Churn Analytics [repo](https://github.com/rstudio/keras-customer-churn)
+  - ~~[**kfre\_app** by *mccudden*](https://mccudden.shinyapps.io/kfre_app): KFRE 2-year Risk Variation Model~~
+  - ~~[**klexdatr-movement** by *poissonconsulting*](https://poissonconsulting.shinyapps.io/klexdatr-movement): Kootenay Lake Fish Movement~~
+  - [**kmeans** by *jcheng*](https://jcheng.shinyapps.io/kmeans): Iris k-means clustering
+  - [**knowlabshiny** by *compassnz*](https://compassnz.shinyapps.io/knowlabshiny): Knowledge Lab [repo](https://github.com/kcha193/KnowLabShiny)
+  - ~~[**ky-house-18** by *rkahne*](https://rkahne.shinyapps.io/ky-house-18): Kentucky Election, 2018~~
+  - ~~[**kyelect\_2018** by *rkahne*](https://rkahne.shinyapps.io/kyelect_2018): Kentucky Election, 2018~~
+  - ~~[**kyleg** by *rkahne*](https://rkahne.shinyapps.io/kyleg): Geographical Voting Visualization~~
+  - ~~[**kyleg\_twitter** by *rkahne*](https://rkahne.shinyapps.io/kyleg_twitter): Kentucky Legislature Twitter Sentiment Dashboards~~
 
 ## L
 
