@@ -1754,44 +1754,19 @@ The majority of ShinyApps listed below are collected from [Michael W. Kearney](h
 
 ## J
 
-  - [**Jambo\_Map** by
-    *poppypresents*](https://poppypresents.shinyapps.io/Jambo_Map):
-    World Scout Jamboree International Unit Map
-  - [**JAPTopicNetwork** by
-    *blistyg*](https://blistyg.shinyapps.io/JAPTopicNetwork):
-    Visualizing The Relationship between JAP Article Keywords
-  - [**jb-flight-deals** by
-    *sparsedata*](https://sparsedata.shinyapps.io/jb-flight-deals):
-    Sparse Data
-  - [**JDPayCalc** by
-    *dannyjnwong*](https://dannyjnwong.shinyapps.io/JDPayCalc): Junior
-    Doctors’ Pay Calculator v.0.5
-  - [**Jester** by
-    *mhahsler-apps*](https://mhahsler-apps.shinyapps.io/Jester): Joke
-    Recommender Using Jester Data
-  - [**jiebaR-shiny** by
-    *qinwf*](https://qinwf.shinyapps.io/jiebaR-shiny): 输入文本
-  - [**joggingdash** by
-    *zfleeman*](https://zfleeman.shinyapps.io/joggingdash): Speed
-    vs. Mood Chart
-  - [**journal\_turnaround\_app** by
-    *jcsuarez*](https://jcsuarez.shinyapps.io/journal_turnaround_app):
-    Journal Turnaround Times
-  - [**jp\_mlsnK** by
-    *asianturfgrass*](https://asianturfgrass.shinyapps.io/jp_mlsnK):
-    MLSN ガイドラインからK要求量を求める
-  - [**JPL\_Shiny** by
-    *mldschry*](https://mldschry.shinyapps.io/JPL_Shiny): Kick\&RushLab
-    JPL-table season 16-17
-  - [**judiciales** by
-    *ppiccato*](https://ppiccato.shinyapps.io/judiciales): Estadísticas
-    del crimen en México: Series Históricas 1926 - 2008
-  - [**junction\_app** by
-    *jiddualexander*](https://jiddualexander.shinyapps.io/junction_app):
-    Junction Profiling
-  - [**jwp-app** by
-    *jeopardy-win-probability*](https://jeopardy-win-probability.shinyapps.io/jwp-app):
-    Jeopardy Win Probability
+  - ~~[**Jambo\_Map** by *poppypresents*](https://poppypresents.shinyapps.io/Jambo_Map): World Scout Jamboree International Unit Map~~
+  - ~~[**JAPTopicNetwork** by *blistyg*](https://blistyg.shinyapps.io/JAPTopicNetwork): Visualizing The Relationship between JAP Article Keywords~~
+  - ~~[**jb-flight-deals** by *sparsedata*](https://sparsedata.shinyapps.io/jb-flight-deals): Sparse Data~~
+  - ~~[**JDPayCalc** by *dannyjnwong*](https://dannyjnwong.shinyapps.io/JDPayCalc): Junior Doctors’ Pay Calculator v.0.5~~
+  - ~~[**Jester** by *mhahsler-apps*](https://mhahsler-apps.shinyapps.io/Jester): Joke Recommender Using Jester Data~~
+  - ~~[**jiebaR-shiny** by *qinwf*](https://qinwf.shinyapps.io/jiebaR-shiny): 输入文本~~
+  - ~~[**joggingdash** by *zfleeman*](https://zfleeman.shinyapps.io/joggingdash): Speed vs.Mood Chart~~
+  - ~~[**journal\_turnaround\_app** by *jcsuarez*](https://jcsuarez.shinyapps.io/journal_turnaround_app): Journal Turnaround Times~~
+  - ~~[**jp\_mlsnK** by *asianturfgrass*](https://asianturfgrass.shinyapps.io/jp_mlsnK): MLSN ガイドラインからK要求量を求める~~
+  - ~~[**JPL\_Shiny** by *mldschry*](https://mldschry.shinyapps.io/JPL_Shiny): Kick\&RushLab JPL-table season 16-17~~
+  - ~~[**judiciales** by *ppiccato*](https://ppiccato.shinyapps.io/judiciales): Estadísticas del crimen en México: Series Históricas 1926 - 2008~~
+  - ~~[**junction\_app** by *jiddualexander*](https://jiddualexander.shinyapps.io/junction_app): Junction Profiling~~
+  - ~~[**jwp-app** by *jeopardy-win-probability*](https://jeopardy-win-probability.shinyapps.io/jwp-app): Jeopardy Win Probability~~
 
 ## K
 
@@ -2716,17 +2691,10 @@ The majority of ShinyApps listed below are collected from [Michael W. Kearney](h
 
 ## Q
 
-  - [**qualite-des-eaux** by
-    *ssm-ecologie*](https://ssm-ecologie.shinyapps.io/qualite-des-eaux):
-    Les pesticides dans les cours d’eau des Pays de la Loire
-  - [**quantgensimAPP** by
-    *mgstetter*](https://mgstetter.shinyapps.io/quantgensimAPP): Genetic
-    architecture and selective sweeps after polygenic adaptation to
-    distant trait optima
-  - [**QueenOfHearts** by
-    *gjkerns*](https://gjkerns.shinyapps.io/QueenOfHearts): Queen of
-    Hearts
-  - [**QuoiR** by *wuli*](https://wuli.shinyapps.io/QuoiR): QuoiR
+  - ~~[**qualite-des-eaux** by *ssm-ecologie*](https://ssm-ecologie.shinyapps.io/qualite-des-eaux): Les pesticides dans les cours d’eau des Pays de la Loire~~
+  - ~~[**quantgensimAPP** by *mgstetter*](https://mgstetter.shinyapps.io/quantgensimAPP): Genetic architecture and selective sweeps after polygenic adaptation to distant trait optima~~
+  - ~~[**QueenOfHearts** by *gjkerns*](https://gjkerns.shinyapps.io/QueenOfHearts): Queen of Hearts~~
+  - ~~[**QuoiR** by *wuli*](https://wuli.shinyapps.io/QuoiR): QuoiR~~
 
 ## R
 
@@ -4001,199 +3969,85 @@ The majority of ShinyApps listed below are collected from [Michael W. Kearney](h
 
 ## Y
 
-  - [**yahoo** by *quantstats*](https://quantstats.shinyapps.io/yahoo):
-    Download Data from Yahoo Finance by Majeed Simaan
-  - [**yuimaGUI** by *yuima*](https://yuima.shinyapps.io/yuimaGUI):
-    yuimaGUI
+  - ~~[**yahoo** by *quantstats*](https://quantstats.shinyapps.io/yahoo): Download Data from Yahoo Finance by Majeed Simaan~~
+  - ~~[**yuimaGUI** by *yuima*](https://yuima.shinyapps.io/yuimaGUI): yuimaGUI~~
 
 ## Z
 
-  - [**zika\_cdc\_dashboard** by
-    *chendaniely*](https://chendaniely.shinyapps.io/zika_cdc_dashboard):
-    Number of valid data points per country
-  - [**ztable** by
-    *cardiomoon*](https://cardiomoon.shinyapps.io/ztable): Demonstration
-    of ztable
+  - ~~[**zika\_cdc\_dashboard** by *chendaniely*](https://chendaniely.shinyapps.io/zika_cdc_dashboard): Number of valid data points per country~~
+  - ~~[**ztable** by *cardiomoon*](https://cardiomoon.shinyapps.io/ztable): Demonstration of ztable~~
 
 ## 0
 
-  - [**002-text** by *demo*](https://demo.shinyapps.io/002-text): Shiny
-    Text
-  - [**002-text** by *gallery*](https://gallery.shinyapps.io/002-text):
-    Shiny Text
-  - [**003-reactivity** by
-    *gallery*](https://gallery.shinyapps.io/003-reactivity): Reactivity
-  - [**005-sliders** by
-    *gallery*](https://gallery.shinyapps.io/005-sliders): Sliders
-  - [**007-widgets** by
-    *gallery*](https://gallery.shinyapps.io/007-widgets): More Widgets
-  - [**009-upload** by
-    *gallery*](https://gallery.shinyapps.io/009-upload): Uploading Files
-  - [**00\_ClassProject-Submittals** by
-    *modernkris*](https://modernkris.shinyapps.io/00_ClassProject-Submittals):
-    US Storms/Weather Events and Damages
-  - [**01-barcelona-incidents-complaints-suggestions** by
-    *marcfresquet*](https://marcfresquet.shinyapps.io/01-barcelona-incidents-complaints-suggestions):
-    Contactes Aj. BCN
-  - [**011-timer** by
-    *gallery*](https://gallery.shinyapps.io/011-timer): Timer by
-    RStudio, Inc.
-  - [**012-datatables** by
-    *gallery*](https://gallery.shinyapps.io/012-datatables): Examples of
-    DataTables
-  - [**013-selectize** by
-    *gallery*](https://gallery.shinyapps.io/013-selectize): Selectize
-    examples
-  - [**016-knitr-pdf** by
-    *gallery*](https://gallery.shinyapps.io/016-knitr-pdf): Download a
-    PDF report
-  - [**018-datatable-options** by
-    *gallery*](https://gallery.shinyapps.io/018-datatable-options):
-    DataTable Options
-  - [**019-mathjax** by
-    *gallery*](https://gallery.shinyapps.io/019-mathjax): MathJax
-    Examples
-  - [**02-Vis-Basics** by
-    *tutorials*](https://tutorials.shinyapps.io/02-Vis-Basics): Data
-    Visualization Basics
-  - [**021-selectize-plot** by
-    *demo*](https://demo.shinyapps.io/021-selectize-plot): Create plots
-    in selectize input
-  - [**021-selectize-plot** by
-    *gallery*](https://gallery.shinyapps.io/021-selectize-plot): Create
-    plots in selectize input
-  - [**022-unicode-chinese** by
-    *gallery*](https://gallery.shinyapps.io/022-unicode-chinese):
-    麻麻再也不用担心我的Shiny应用不能显示中文了
-  - [**024-optgroup-selectize** by
-    *gallery*](https://gallery.shinyapps.io/024-optgroup-selectize):
-    Options groups for select(ize) input
-  - [**027-absolutely-positioned-panels** by
-    *gallery*](https://gallery.shinyapps.io/027-absolutely-positioned-panels):
-    Absolutely-positioned panels
-  - [**029-row-selection** by
-    *demo*](https://demo.shinyapps.io/029-row-selection): Row selection
-    in DataTables
-  - [**02\_text** by *gallery*](https://gallery.shinyapps.io/02_text):
-    Shiny Text
-  - [**030-basic-datatable** by
-    *gallery*](https://gallery.shinyapps.io/030-basic-datatable): Basic
-    DataTable
-  - [**032-client-data-and-query-string** by
-    *gallery*](https://gallery.shinyapps.io/032-client-data-and-query-string):
-    Client data and query string example
-  - [**035-custom-input-bindings** by
-    *gallery*](https://gallery.shinyapps.io/035-custom-input-bindings):
-    Custom input example
-  - [**037-date-and-date-range** by
-    *gallery*](https://gallery.shinyapps.io/037-date-and-date-range):
-    Dates and date ranges
-  - [**040-dynamic-clustering** by
-    *gallery*](https://gallery.shinyapps.io/040-dynamic-clustering):
-    Dynamic Clustering in Shiny
-  - [**047-image-output** by
-    *gallery*](https://gallery.shinyapps.io/047-image-output): Image
-    output
-  - [**050-kmeans-example** by
-    *gallery*](https://gallery.shinyapps.io/050-kmeans-example): Iris
-    k-means clustering
-  - [**051-movie-explorer** by
-    *gallery*](https://gallery.shinyapps.io/051-movie-explorer): Movie
-    explorer
-  - [**053-navlistpanel-example** by
-    *gallery*](https://gallery.shinyapps.io/053-navlistpanel-example):
-    Navlist panel example
-  - [**054-nvd3-line-chart-output** by
-    *gallery*](https://gallery.shinyapps.io/054-nvd3-line-chart-output):
-    JavaScript output binding example
-  - [**057-plot-plus-three-columns** by
-    *gallery*](https://gallery.shinyapps.io/057-plot-plus-three-columns):
-    Diamonds Explorer
-  - [**058-progress-example** by
-    *gallery*](https://gallery.shinyapps.io/058-progress-example):
-    Progress demo
-  - [**061-server-to-client-custom-messages** by
-    *gallery*](https://gallery.shinyapps.io/061-server-to-client-custom-messages):
-    sendCustomMessage example
-  - [**064-telephones-by-region** by
-    *gallery*](https://gallery.shinyapps.io/064-telephones-by-region):
-    Telephones by region
-  - [**065-update-input-demo** by
-    *gallery*](https://gallery.shinyapps.io/065-update-input-demo):
-    Changing the values of inputs from the server
-  - [**066-upload-file** by
-    *gallery*](https://gallery.shinyapps.io/066-upload-file): Uploading
-    Files
-  - [**069-widget-check-group** by
-    *gallery*](https://gallery.shinyapps.io/069-widget-check-group):
-    Checkbox group
-  - [**072-widget-date-range** by
-    *gallery*](https://gallery.shinyapps.io/072-widget-date-range): Date
-    range
-  - [**073-widget-file** by
-    *gallery*](https://gallery.shinyapps.io/073-widget-file): File input
-  - [**076-widget-select** by
-    *gallery*](https://gallery.shinyapps.io/076-widget-select): Select
-    box
-  - [**077-widget-slider** by
-    *gallery*](https://gallery.shinyapps.io/077-widget-slider): Slider
-  - [**082-word-cloud** by
-    *gallery*](https://gallery.shinyapps.io/082-word-cloud): Word Cloud
-  - [**084-single-file** by
-    *gallery*](https://gallery.shinyapps.io/084-single-file):
-    Single-file shiny app by RStudio, Inc.
-  - [**085-progress** by
-    *gallery*](https://gallery.shinyapps.io/085-progress): Progress bar
-    example by RStudio, Inc.
-  - [**086-bus-dashboard** by
-    *gallery*](https://gallery.shinyapps.io/086-bus-dashboard): Twin
-    Cities Buses
-  - [**087-crandash** by
-    *gallery*](https://gallery.shinyapps.io/087-crandash):
-    cran.rstudio.com
-  - [**094-image-interaction-basic** by
-    *gallery*](https://gallery.shinyapps.io/094-image-interaction-basic):
-    Image interaction - basic by RStudio, Inc.
-  - [**095-plot-interaction-advanced** by
-    *gallery*](https://gallery.shinyapps.io/095-plot-interaction-advanced):
-    Points selected by clicking, with nearPoints():
+  - [**002-text** by *demo*](https://demo.shinyapps.io/002-text): Shiny Text
+  - [**002-text** by *gallery*](https://gallery.shinyapps.io/002-text): Shiny Text
+  - [**003-reactivity** by *gallery*](https://gallery.shinyapps.io/003-reactivity): Reactivity
+  - [**005-sliders** by *gallery*](https://gallery.shinyapps.io/005-sliders): Sliders
+  - [**007-widgets** by *gallery*](https://gallery.shinyapps.io/007-widgets): More Widgets
+  - [**009-upload** by *gallery*](https://gallery.shinyapps.io/009-upload): Uploading Files
+  - ~~[**00\_ClassProject-Submittals** by *modernkris*](https://modernkris.shinyapps.io/00_ClassProject-Submittals): US Storms/Weather Events and Damages~~
+  - [**01-barcelona-incidents-complaints-suggestions** by *marcfresquet*](https://marcfresquet.shinyapps.io/01-barcelona-incidents-complaints-suggestions): Contactes Aj. BCN
+  - [**011-timer** by *gallery*](https://gallery.shinyapps.io/011-timer): Timer by RStudio, Inc.
+  - [**012-datatables** by *gallery*](https://gallery.shinyapps.io/012-datatables): Examples of DataTables
+  - [**013-selectize** by *gallery*](https://gallery.shinyapps.io/013-selectize): Selectize examples
+  - [**016-knitr-pdf** by *gallery*](https://gallery.shinyapps.io/016-knitr-pdf): Download a PDF report
+  - [**018-datatable-options** by *gallery*](https://gallery.shinyapps.io/018-datatable-options): DataTable Options
+  - [**019-mathjax** by *gallery*](https://gallery.shinyapps.io/019-mathjax): MathJax Examples
+  - [**02-Vis-Basics** by *tutorials*](https://tutorials.shinyapps.io/02-Vis-Basics): Data Visualization Basics
+  - [**021-selectize-plot** by *demo*](https://demo.shinyapps.io/021-selectize-plot): Create plots in selectize input
+  - [**021-selectize-plot** by *gallery*](https://gallery.shinyapps.io/021-selectize-plot): Create plots in selectize input
+  - [**022-unicode-chinese** by *gallery*](https://gallery.shinyapps.io/022-unicode-chinese): 麻麻再也不用担心我的Shiny应用不能显示中文了
+  - [**024-optgroup-selectize** by *gallery*](https://gallery.shinyapps.io/024-optgroup-selectize): Options groups for select(ize) input
+  - [**027-absolutely-positioned-panels** by *gallery*](https://gallery.shinyapps.io/027-absolutely-positioned-panels): Absolutely-positioned panels
+  - [**029-row-selection** by *demo*](https://demo.shinyapps.io/029-row-selection): Row selection in DataTables
+  - [**02\_text** by *gallery*](https://gallery.shinyapps.io/02_text): Shiny Text
+  - [**030-basic-datatable** by *gallery*](https://gallery.shinyapps.io/030-basic-datatable): Basic DataTable
+  - [**032-client-data-and-query-string** by *gallery*](https://gallery.shinyapps.io/032-client-data-and-query-string): Client data and query string example
+  - [**035-custom-input-bindings** by *gallery*](https://gallery.shinyapps.io/035-custom-input-bindings): Custom input example
+  - [**037-date-and-date-range** by *gallery*](https://gallery.shinyapps.io/037-date-and-date-range): Dates and date ranges
+  - [**040-dynamic-clustering** by *gallery*](https://gallery.shinyapps.io/040-dynamic-clustering): Dynamic Clustering in Shiny
+  - [**047-image-output** by *gallery*](https://gallery.shinyapps.io/047-image-output): Image output
+  - [**050-kmeans-example** by *gallery*](https://gallery.shinyapps.io/050-kmeans-example): Iris k-means clustering
+  - [**051-movie-explorer** by *gallery*](https://gallery.shinyapps.io/051-movie-explorer): Movie explorer
+  - [**053-navlistpanel-example** by *gallery*](https://gallery.shinyapps.io/053-navlistpanel-example): Navlist panel example
+  - [**054-nvd3-line-chart-output** by *gallery*](https://gallery.shinyapps.io/054-nvd3-line-chart-output): JavaScript output binding example
+  - [**057-plot-plus-three-columns** by *gallery*](https://gallery.shinyapps.io/057-plot-plus-three-columns): Diamonds Explorer
+  - [**058-progress-example** by *gallery*](https://gallery.shinyapps.io/058-progress-example): Progress demo
+  - [**061-server-to-client-custom-messages** by *gallery*](https://gallery.shinyapps.io/061-server-to-client-custom-messages): sendCustomMessage example
+  - [**064-telephones-by-region** by *gallery*](https://gallery.shinyapps.io/064-telephones-by-region): Telephones by region
+  - [**065-update-input-demo** by *gallery*](https://gallery.shinyapps.io/065-update-input-demo): Changing the values of inputs from the server
+  - [**066-upload-file** by *gallery*](https://gallery.shinyapps.io/066-upload-file): Uploading Files
+  - [**069-widget-check-group** by *gallery*](https://gallery.shinyapps.io/069-widget-check-group): Checkbox group
+  - [**072-widget-date-range** by *gallery*](https://gallery.shinyapps.io/072-widget-date-range): Date range
+  - [**073-widget-file** by *gallery*](https://gallery.shinyapps.io/073-widget-file): File input
+  - [**076-widget-select** by *gallery*](https://gallery.shinyapps.io/076-widget-select): Select box
+  - [**077-widget-slider** by *gallery*](https://gallery.shinyapps.io/077-widget-slider): Slider
+  - [**082-word-cloud** by *gallery*](https://gallery.shinyapps.io/082-word-cloud): Word Cloud
+  - [**084-single-file** by *gallery*](https://gallery.shinyapps.io/084-single-file): Single-file shiny app by RStudio, Inc.
+  - [**085-progress** by *gallery*](https://gallery.shinyapps.io/085-progress): Progress bar example by RStudio, Inc.
+  - [**086-bus-dashboard** by *gallery*](https://gallery.shinyapps.io/086-bus-dashboard): Twin Cities Buses
+  - [**087-crandash** by *gallery*](https://gallery.shinyapps.io/087-crandash): cran.rstudio.com
+  - [**094-image-interaction-basic** by *gallery*](https://gallery.shinyapps.io/094-image-interaction-basic): Image interaction - basic by RStudio, Inc.
+  - [**095-plot-interaction-advanced** by *gallery*](https://gallery.shinyapps.io/095-plot-interaction-advanced): Points selected by clicking, with nearPoints():
 
 ## 1
 
-  - [**110-error-sanitization** by
-    *gallery*](https://gallery.shinyapps.io/110-error-sanitization):
-    Error Sanitization Demo
-  - [**113-bookmarking-url** by
-    *gallery*](https://gallery.shinyapps.io/113-bookmarking-url):
-    Bookmarking - URL by Winston Chang
-  - [**117-shinythemes** by
-    *gallery*](https://gallery.shinyapps.io/117-shinythemes):
-    shinythemes
-  - [**14-ggvis** by *hadley*](https://hadley.shinyapps.io/14-ggvis):
-    14-ggvis
+  - [**110-error-sanitization** by *gallery*](https://gallery.shinyapps.io/110-error-sanitization): Error Sanitization Demo
+  - [**113-bookmarking-url** by *gallery*](https://gallery.shinyapps.io/113-bookmarking-url): Bookmarking - URL by Winston Chang
+  - [**117-shinythemes** by *gallery*](https://gallery.shinyapps.io/117-shinythemes): shinythemes
+  - [**14-ggvis** by *hadley*](https://hadley.shinyapps.io/14-ggvis): 14-ggvis
 
 ## 2
 
-  - [**2018-5-Philly-Primary** by
-    *hollander*](https://hollander.shinyapps.io/2018-5-Philly-Primary):
-    2018 Philly Primary Vote Explorer
-  - [**2amconf** by *ttso*](https://ttso.shinyapps.io/2amconf):
-    Scatterplot by School
-  - [**2randomize** by
-    *jlsumner*](https://jlsumner.shinyapps.io/2randomize): 2Randomize: A
-    Tool for Large-Scale Randomization in Qualtrics
+  - ~~[**2018-5-Philly-Primary** by *hollander*](https://hollander.shinyapps.io/2018-5-Philly-Primary): 2018 Philly Primary Vote Explorer~~
+  - [**2amconf** by *ttso*](https://ttso.shinyapps.io/2amconf): Scatterplot by School
+  - ~~[**2randomize** by *jlsumner*](https://jlsumner.shinyapps.io/2randomize): 2Randomize: A Tool for Large-Scale Randomization in Qualtrics~~
 
 ## 3
 
-  - [**3D\_Mapping** by
-    *gallery*](https://gallery.shinyapps.io/3D_Mapping): 3D Network
-    Mapper
+  - [**3D\_Mapping** by *gallery*](https://gallery.shinyapps.io/3D_Mapping): 3D Network Mapper
 
 ## 7
 
-  - [**7State\_App** by
-    *es-data*](https://es-data.shinyapps.io/7State_App):
-    Ballotpedia/Evolving Strategies LLC
-  - [\*\*\_myShinyApp\*\* by
-    *domfernandez*](https://domfernandez.shinyapps.io/_myShinyApp): Dom
-    Fernandez’s Shiny World\!
+  - ~~[**7State\_App** by *es-data*](https://es-data.shinyapps.io/7State_App): Ballotpedia/Evolving Strategies LLC~~
+  - ~~[\*\*\_myShinyApp\*\* by *domfernandez*](https://domfernandez.shinyapps.io/_myShinyApp): Dom Fernandez’s Shiny World\!~~
